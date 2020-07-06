@@ -32,7 +32,6 @@ return [
     | choice installed on your machine before you begin development.
     |
     */
-    $databaseUrl = parse_url(env('DATABASE_URL'));
 
     'connections' => [
 
