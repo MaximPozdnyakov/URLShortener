@@ -32,6 +32,7 @@
           function copyText(text) {
             navigator.clipboard.writeText(text);
           }
+          let a = 0;
         </script>
     </body>
 </html>
